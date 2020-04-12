@@ -1,7 +1,3 @@
-**Level:** Advanced <br/>
-**Recommended Use:** Regression/Clustering Models<br/>
-**Domain:** Electricity<br/> 
-
 ## Individual household electric power consumption Data Set 
 
 ### Find a short term forecast on electricity consumption of a single home
